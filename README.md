@@ -41,3 +41,5 @@ Be brutally honest with two sections:
 **Let's get this bread and toast it.**
 
 ![TomReedGIF](https://github.com/user-attachments/assets/4492dfba-214d-4d2d-9906-0e5b899eba75)
+
+![GlepSmilingFriendsGIF](https://github.com/user-attachments/assets/5867f161-ef07-43b3-8d8f-895dfd704813)
