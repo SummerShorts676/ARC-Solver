@@ -1,9 +1,8 @@
-import Image from "next/image";
-
+import RubiksBackground from "../images/wp1984141.jpg"
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
+    <div className="bg-[url('../images/dice-427897.jpg')] font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
+      <main className="bg-black p-10 outline-10 outline-offset-8 outline-black rounded-2xl flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <h1 className="text-4xl font-bold text-center sm:text-left">
           ARC Solver
         </h1>
@@ -13,17 +12,10 @@ export default function Home() {
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a href="https://github.com/SummerShorts676/ARC-Solver.git"
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
+          className="bg-black outline-5 outline-offset-4 outline-black p-5 rounded-2xl flex items-center gap-2 hover:underline hover:underline-offset-4"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
-            aria-hidden
-            src="/github.svg"
-            alt="GitHub icon"
-            width={16}
-            height={16}
-          />
           GitHub
         </a>
       </footer>
