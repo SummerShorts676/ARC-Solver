@@ -10,6 +10,11 @@ on:
     branches: ["main"]
 
 jobs:
+  defaults:
+    run:
+      shell: bash
+      working-directory: ./arc-solver
+      
   build:
     runs-on: ubuntu-latest
 
