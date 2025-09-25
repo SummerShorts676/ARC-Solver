@@ -40,6 +40,5 @@ Be brutally honest with two sections:
 - Simple. Easy to understand. Realistic. Plausible.
 **Let's get this bread and toast it.**
 
-![TomReedGIF](https://github.com/user-attachments/assets/4492dfba-214d-4d2d-9906-0e5b899eba75)
+![RubiksCoolGIF](https://github.com/user-attachments/assets/23c6d582-e0a0-48bc-8185-db9e8387a64b)
 
-![GlepSmilingFriendsGIF](https://github.com/user-attachments/assets/5867f161-ef07-43b3-8d8f-895dfd704813)
