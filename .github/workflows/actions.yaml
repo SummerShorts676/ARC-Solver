@@ -9,11 +9,11 @@ on:
   pull_request:
     branches: ["develop-kim"]
 
+defaults:
+  run:
+    working-directory: ./arc-solver
 jobs:
   build:
-    defaults:
-      run:
-        working-directory: ./arc-solver
     runs-on: ubuntu-latest
 
     #        strategy:
