@@ -5,9 +5,9 @@ name: NextJS. CI
 
 on:
   push:
-    branches: ["develop-kim"]
+    branches: [""]
   pull_request:
-    branches: ["develop-kim"]
+    branches: [""]
 
 defaults:
   run:
